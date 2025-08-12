@@ -33,3 +33,7 @@
   <img src="https://img.shields.io/badge/SHA256-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+
+### Demo (Presentation)
+For a full walkthrough of the integration process and functionality, see the presentation below:  
+[View Demo Presentation](https://drive.google.com/file/d/1ilMdENIIHl9P3nmQdqmjUhZ9ZM81y4KA/view?usp=drive_link)
